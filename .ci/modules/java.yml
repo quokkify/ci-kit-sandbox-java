@@ -1,0 +1,6 @@
+schema_version: 1
+components:
+  - id: "app-java"
+    name: "Application Java"
+    path: "."
+    java_version: "21"
